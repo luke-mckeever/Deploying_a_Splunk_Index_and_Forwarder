@@ -1,6 +1,6 @@
 # Deploying a Splunk Indexer and Forwarder 🚀
 
-![Project Plan](https://via.placeholder.com/800x400.png?text=Project+Plan)  
+![Project Plan](Plan.jpg)  
 *Visual representation of the project plan to deploy and forward logs to the Splunk Indexer.*
 
 ---
